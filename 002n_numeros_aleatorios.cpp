@@ -17,7 +17,7 @@ int main(){
 
     cout << "\nNúmeros aleatorios generados\n";
     for(int i = 0; i < cantidad; i++){
-        cout << rand() % valorMaximo + 1 << " ";   
+        cout << rand() % valorMaximo + 1 << " "; 
     }
     cout << endl;
 
